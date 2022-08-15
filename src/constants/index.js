@@ -134,8 +134,8 @@ export const footerLinks = [
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        name: "Source Code",
+        link: "https://github.com/mohammad-fahmid-chowdhury/reactfintech",
       },
     ],
   },
